@@ -1,0 +1,13 @@
+timestamp_utc,user_id,source_ip,event,result,device
+2026-08-01 09:00:12 UTC,stu-104,192.0.2.18,password_login,success,android
+2026-08-01 09:03:44 UTC,stu-117,198.51.100.27,password_login,failure,windows
+2026-08-01 09:04:01 UTC,stu-117,198.51.100.27,password_login,failure,windows
+2026-08-01 09:04:18 UTC,stu-117,198.51.100.27,password_login,failure,windows
+2026-08-01 09:05:03 UTC,stu-117,198.51.100.27,account_lock,success,server
+2026-08-01 09:21:10 UTC,stu-209,203.0.113.42,password_login,failure,unknown
+2026-08-01 09:21:13 UTC,stu-311,203.0.113.42,password_login,failure,unknown
+2026-08-01 09:21:17 UTC,stu-415,203.0.113.42,password_login,failure,unknown
+2026-08-01 09:21:22 UTC,stu-502,203.0.113.42,password_login,failure,unknown
+2026-08-01 09:22:01 UTC,stu-209,203.0.113.42,rate_limit,blocked,server
+2026-08-01 10:15:32 UTC,stu-104,192.0.2.18,refresh_token,success,android
+2026-08-01 11:47:09 UTC,stu-311,192.0.2.99,password_login,success,ios
